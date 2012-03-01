@@ -1,0 +1,10 @@
+C:\Users\Ruslan\Src\MyPortal\MyPortal\bin\MyPortal.dll
+C:\Users\Ruslan\Src\MyPortal\MyPortal\bin\MyPortal.pdb
+C:\Users\Ruslan\Src\MyPortal\MyPortal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ruslan\Src\MyPortal\MyPortal\obj\Debug\MyPortal.dll
+C:\Users\Ruslan\Src\MyPortal\MyPortal\obj\Debug\MyPortal.pdb
+E:\code from net\MyPortal\MyPortal\MyPortal\bin\MyPortal.dll
+E:\code from net\MyPortal\MyPortal\MyPortal\bin\MyPortal.pdb
+E:\code from net\MyPortal\MyPortal\MyPortal\obj\Debug\ResolveAssemblyReference.cache
+E:\code from net\MyPortal\MyPortal\MyPortal\obj\Debug\MyPortal.dll
+E:\code from net\MyPortal\MyPortal\MyPortal\obj\Debug\MyPortal.pdb
